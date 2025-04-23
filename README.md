@@ -3,9 +3,9 @@ ALIA Carpentry..... tutorial
 
 This is a discriptive line
 
-##Heading: 1
+## Heading: 1
 
+## Heading: 2
 
-
-##Heading: 2
+### Heading 3
 
